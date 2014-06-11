@@ -30,10 +30,6 @@
     "!/bower.json",
     "!/changelog.*",
     "!/license.*",
-    "!/fullcalendar.css",
-    "!/fullcalendar.js",
-    "!/fullcalendar.min.js",
-    "!/fullcalendar.print.css",
     "!/readme.*"
   ]
 }
