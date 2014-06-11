@@ -4861,6 +4861,8 @@ function AgendaEventRenderer() {
 			"<div class='fc-event-title'>" +
 			htmlEscape(event.title || '') +
 			"</div>" +
+			"<div class='fc-event-cancel' ng-click='removeEvent()'>cancel"+
+            "</div>" +
 			"</div>" +
 			"<div class='fc-event-bg'></div>";
 
