@@ -20,8 +20,8 @@
   },
 
   "main": [
-    "/dist/fullcalendar.js",
-    "/dist/fullcalendar.css"
+    "/fullcalendar.js",
+    "/fullcalendar.css"
   ],
   "ignore": [
     "*",
