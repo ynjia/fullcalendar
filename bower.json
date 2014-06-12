@@ -20,8 +20,8 @@
   },
 
   "main": [
-    "/dist/fullcalendar.js",
-    "/dist/fullcalendar.css"
+    "/fullcalendar.js",
+    "/fullcalendar.css"
   ],
   "ignore": [
     "*",
@@ -30,6 +30,11 @@
     "!/bower.json",
     "!/changelog.*",
     "!/license.*",
+    "!/fullcalendar.css",
+    "!/fullcalendar.js",
+    "!/fullcalendar.min.js",
+    "!/gcal.js",
+    "!/fullcalendar.print.css",
     "!/readme.*"
   ]
 }
